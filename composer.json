@@ -1,0 +1,21 @@
+{
+    "name": "arpablue/treepath",
+    "description": "It manage JSON data, to manage data in a JSON structure.",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArpaBlue\\": "src/arpablue/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Augusto Flores",
+            "email": "eng.augusto.flores@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC"
+}
